@@ -149,7 +149,7 @@ Other emails or numbers will be rejected by the trial service.
     "userId": 1,
     "type": "sms",
     "message": "This is a test message",
-    "receiver": "+918423280190",
+    "receiver": "+917323001107",
     "status": "Pending"
   }
 }
