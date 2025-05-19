@@ -1,0 +1,1 @@
+ALTER TABLE "notifications" ALTER COLUMN "id" SET DATA TYPE serial;

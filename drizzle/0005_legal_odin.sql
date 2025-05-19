@@ -1,0 +1,1 @@
+ALTER TABLE "notifications" ADD COLUMN "receiver" varchar(255) NOT NULL;
