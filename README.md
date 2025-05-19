@@ -30,8 +30,8 @@ A robust notification system that supports **in-app**, **email**, and **SMS** no
 - **Nodemailer** or MailSender (Email)
 - **Railway** (Deployment)
 
----
-
+----
+````
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
