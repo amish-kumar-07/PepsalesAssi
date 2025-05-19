@@ -121,7 +121,7 @@ GET /users/1/notifications
 
 Use this collection to test the endpoints:
 
-🔗 [Pepsales Postman Collection](https://www.postman.com/pepsales-7521/workspace/pepsales/collection/39544043-1852aa88-af33-4cb9-be50-456b7b4dc65f?action=share&creator=39544043)
+🔗 [Pepsales Postman Collection](https://team-test-7339.postman.co/workspace/Team-Test-Workspace~8c86a486-9ff2-49b8-8df4-f02204f01ad0/collection/35001300-61d64344-67bb-4c4c-9146-3a4fc1e7b5f8?action=share&creator=35001300)
 
 Import the `test.json` file if you downloaded it manually.
 
