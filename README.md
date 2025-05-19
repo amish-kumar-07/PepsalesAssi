@@ -117,16 +117,6 @@ Example:
 GET /users/1/notifications
 ```
 
----
-
-### 🔹 Mark Notification as Read (Planned)
-
-**PATCH** `/notifications/:id/read`
-
-Marks a notification as read (functionality can be added).
-
----
-
 ## 🧪 Postman Collection
 
 Use this collection to test the endpoints:
