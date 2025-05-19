@@ -154,6 +154,11 @@ Other emails or numbers will be rejected by the trial service.
   }
 }
 ```
+![Screenshot 2025-05-18 162454](https://github.com/user-attachments/assets/a6f3436a-e0d1-40e2-9c8c-973934eb9e28)
+![sms](https://github.com/user-attachments/assets/6e6e73f8-63aa-425d-b659-3307cc63f891)
+![mail](https://github.com/user-attachments/assets/5d36bcb5-0536-46cd-9115-048eeb0eb1ae)
+
+
 
 ---
 
