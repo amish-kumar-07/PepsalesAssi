@@ -37,8 +37,8 @@ A robust notification system that supports **in-app**, **email**, and **SMS** no
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/amish-kumar-07/Pepsales.git
-cd Pepsales
+git clone https://github.com/amish-kumar-07/PepsalesAssi.git
+cd PepsalesAssi
 ````
 
 ### 2. Install dependencies
