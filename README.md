@@ -100,8 +100,8 @@ Sends an in-app/email/SMS notification.
 
 ✅ **Test-only values:**
 
-* **Email:** `suryansh.singh.5806@gmail.com`
-* **SMS:** `+918423280190`
+* **Email:** `rashusingh110@gmail.com`
+* **SMS:** `+917323001107`
 
 ---
 
