@@ -1,8 +1,3 @@
-Here’s a complete **`README.md`** for your Notification API (Pepsales), written as a single Markdown file you can drop directly into your project:
-
----
-
-````markdown
 # 📬 Notification API Service - Pepsales
 
 A robust notification system that supports **in-app**, **email**, and **SMS** notifications. Built with **Node.js**, **Express**, **Drizzle ORM**, **RabbitMQ**, **Twilio**, and **MailSender**, this API is designed to handle scalable and asynchronous notifications for user-specific actions.
