@@ -88,7 +88,7 @@ Sends an in-app/email/SMS notification.
   "userId": 1,
   "type": "sms",              // in-app | email | sms
   "message": "This is a test message",
-  "receiver": "+918423280190", // required for sms/email
+  "receiver": "+917323001107", // required for sms/email
   "status": "Pending"
 }
 ```
